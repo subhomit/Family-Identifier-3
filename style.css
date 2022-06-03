@@ -1,0 +1,16 @@
+body{
+    background-color: green;
+    color: aqua;
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+.features, #object, #accuracy{
+    color: blueviolet;
+}
+#camera{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
